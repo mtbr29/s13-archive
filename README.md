@@ -5,6 +5,12 @@
 **avaible paks:(on pc💻 and mobile📱)**
 
 ## -🟠orange copy
+<table>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/36841927-b697-4adc-96a6-8c061bccd00b" alt="Image 1" style="width: auto;"></td>
+        <td><img src="https://github.com/user-attachments/assets/cd375d42-b76c-40c0-9be3-13081cb24166" alt="Image 2" style="width: auto;"></td>
+    </tr>
+</table>
 ![orangecopy](https://github.com/user-attachments/assets/36841927-b697-4adc-96a6-8c061bccd00b) ![orange_copy](https://github.com/user-attachments/assets/cd375d42-b76c-40c0-9be3-13081cb24166)
 
 ## -📺llamatron

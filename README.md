@@ -97,7 +97,7 @@ https://github.com/mtbr29/s13-archive/blob/e8c072b6e92e6aad061b103ac37d37cb3a007
 
 **PC💻:** https://github.com/mtbr29/s13-archive/blob/53d204dc676e4d1b363ef70e339d416030a957c0/paks/pakchunkAllPaks-WindowsClient.pak
 
-           https://github.com/mtbr29/s13-archive/blob/53d204dc676e4d1b363ef70e339d416030a957c0/paks/pakchunkAllPaks-WindowsClient.sig
+https://github.com/mtbr29/s13-archive/blob/53d204dc676e4d1b363ef70e339d416030a957c0/paks/pakchunkAllPaks-WindowsClient.sig
            
 **Phone📱:** https://github.com/mtbr29/s13-archive/blob/53d204dc676e4d1b363ef70e339d416030a957c0/paks/pakchunk2-Android_ASTCClient.pak
 

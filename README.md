@@ -61,3 +61,26 @@ https://github.com/mtbr29/s13-archive/blob/dcd51df28e385208b8ff2c599c5d95219d65e
         <td><img src="https://github.com/user-attachments/assets/49ab5a7b-28b9-40f5-914d-797ba7798bc3" alt="Image 2" style="width: auto;"></td>
     </tr>
 </table>
+
+#### download:
+https://github.com/mtbr29/s13-archive/blob/c904b27f9569bfa11530cbfc85b53ae6676647f2/paks/pakchunkPropsCollision-WindowsClient.pak
+https://github.com/mtbr29/s13-archive/blob/c904b27f9569bfa11530cbfc85b53ae6676647f2/paks/pakchunkPropsCollision-WindowsClient.sig
+
+## -spawn props:
+<table>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/61f896a7-faac-4d41-89c2-90e04f8014e8" alt="Image 1" style="width: auto;"></td>
+        <td><img src="https://github.com/user-attachments/assets/49ab5a7b-28b9-40f5-914d-797ba7798bc3" alt="Image 2" style="width: auto;"></td>
+    </tr>
+</table>
+
+>__Tutorial__
+>https://youtu.be/fb0IBmq5k80?si=pYKcE1CHo5iGsDKd
+>**__Fmodel__**
+> - [Download](https://fmodel.app/download)
+> - [Require .Net 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.3-windows-x64-installer)
+> **__AES 13.40__**
+> `0x450EC70DA26DFEEA5EC2415A0745316DB399305E8A32FBE09E57B1FCC4BD771D`
+> **__Path Modifier__**
+https://github.com/mtbr29/s13-archive/blob/e8c072b6e92e6aad061b103ac37d37cb3a00741a/assets/Path_Modifier.zip
+## -all paks

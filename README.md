@@ -12,6 +12,10 @@
     </tr>
 </table>
 
+#### download:
+https://github.com/mtbr29/s13-archive/blob/dcd51df28e385208b8ff2c599c5d95219d65e48d/paks/pakchunkOrangeCopy-WindowsClient.pak
+https://github.com/mtbr29/s13-archive/blob/dcd51df28e385208b8ff2c599c5d95219d65e48d/paks/pakchunkOrangeCopy-WindowsClient.sig
+
 ## -📺llamatron
 
 <table>
@@ -20,6 +24,10 @@
         <td><img src="https://github.com/user-attachments/assets/076807bd-b84e-4a2e-80a8-c51440d0a95a" alt="Image 2" style="width: auto;"></td>
     </tr>
 </table>
+
+#### download:
+https://github.com/mtbr29/s13-archive/blob/dcd51df28e385208b8ff2c599c5d95219d65e48d/paks/pakchunkLlamatron-WindowsClient.pak
+https://github.com/mtbr29/s13-archive/blob/dcd51df28e385208b8ff2c599c5d95219d65e48d/paks/pakchunkLlamatron-WindowsClient.sig
 
 ## -🏝dev islands
 
@@ -30,6 +38,10 @@
     </tr>
 </table>
 
+#### download:
+https://github.com/mtbr29/s13-archive/blob/dcd51df28e385208b8ff2c599c5d95219d65e48d/paks/pakchunkUnreleasedIslands-WindowsClient.pak
+https://github.com/mtbr29/s13-archive/blob/dcd51df28e385208b8ff2c599c5d95219d65e48d/paks/pakchunkUnreleasedIslands-WindowsClient.sig
+
 ## -☢nuke prefabs
 
 <table>
@@ -37,6 +49,10 @@
         <td><img src="https://github.com/user-attachments/assets/90bc2724-ea65-42c5-9aa6-2d352ed5dcd7 " alt="Image 1" style="width: auto;"></td>
     </tr>
 </table>
+
+#### download:
+https://github.com/mtbr29/s13-archive/blob/dcd51df28e385208b8ff2c599c5d95219d65e48d/paks/pakchunkUnreleseadItems-WindowsClient.pak
+https://github.com/mtbr29/s13-archive/blob/dcd51df28e385208b8ff2c599c5d95219d65e48d/paks/pakchunkUnreleseadItems-WindowsClient.sig
 
 ## -collision
 <table>

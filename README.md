@@ -126,3 +126,8 @@ https://github.com/mtbr29/s13-archive/blob/53d204dc676e4d1b363ef70e339d416030a95
 > - Les îles unrelesead
 > - Le lamatron vuid
 > L'emplacement du pak, dépendra d'une personne à l'autre, il vous faudra allez dans un dossier Lang, regardez quel pak s'y trouve dans se dossier, copier le nom du pak qui y est et renommer le pak 'All Pak S13 Mobile' avec le nom du pak que vous avez copier et l'échanger contre celui dans le dossier que vous avez choisi. </details>
+
+
+
+## 🗂️path props:
+## 💻pc version

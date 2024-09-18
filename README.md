@@ -130,6 +130,13 @@ https://github.com/mtbr29/s13-archive/blob/53d204dc676e4d1b363ef70e339d416030a95
 
 
 ## 🗂️path props:
+
+**how to get the image**
+
+tutorial:
+
+
+
 ## 💻pc version:
 
   Mimic chest:

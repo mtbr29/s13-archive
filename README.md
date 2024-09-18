@@ -135,6 +135,10 @@ https://github.com/mtbr29/s13-archive/blob/53d204dc676e4d1b363ef70e339d416030a95
 
 tutorial:
 
+*fix "This content is no longer available."*
+
+https://github.com/user-attachments/assets/9f81c069-6fe2-4e54-8d2d-b0b4d7868b39
+
 
 
 ## 💻pc version:
